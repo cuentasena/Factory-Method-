@@ -4,6 +4,6 @@ import com.ejemplo.notificaciones.interfaces.Notificacion;
 public class NotificacionEmail implements Notificacion {
     @Override
     public String enviar() {
-        return "📧 Correo electrónico enviado al usuario: Bienvenido a nuestra plataforma";
+        return "Correo electronico enviado al usuario: Bienvenido a nuestra plataforma";
     }
 }
