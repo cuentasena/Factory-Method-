@@ -1,5 +1,6 @@
 com\ejemplo\notificaciones\service\NotificacionService.class
 com\ejemplo\notificaciones\implementations\NotificacionEmail.class
+com\ejemplo\notificaciones\NotificacionesApplication.class
 com\ejemplo\notificaciones\factory\NotificacionFactory.class
 com\ejemplo\notificaciones\controller\NotificationController.class
 com\ejemplo\notificaciones\implementations\NotificacionSMS.class
